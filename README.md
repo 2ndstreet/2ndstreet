@@ -1,4 +1,12 @@
-### Hi there 👋
+
+Hello
+
+I am interested in learning a little about a lot. 
+
+Playing around and testing different programming languages, environments and operating systems.
+
+
+2ndstreet@tuta.io
 
 <!--
 **2ndstreet/2ndstreet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
